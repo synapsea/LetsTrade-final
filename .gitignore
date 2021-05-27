@@ -1,0 +1,14 @@
+*.out
+*.exe
+*.DS_Store
+/tests/ben/lib
+/tests/ben/src/boost-test.cpp
+<<<<<<< HEAD
+start
+Lets-Trade.workspace.layout
+test.cpp
+=======
+/out/*
+.vs/*
+
+>>>>>>> ef661d93133329955fb4071c12c394799cf85659

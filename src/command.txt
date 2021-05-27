@@ -1,0 +1,1 @@
+g++ -o start -std=c++14 portfolio.cpp player.cpp share.cpp stock.cpp transaction.cpp csvExtractor.cpp banking.cpp main.cpp

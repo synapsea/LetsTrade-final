@@ -1,0 +1,5 @@
+C:/Users/exit2/Documents/Projects/Lets-Trade/build/ios/CMakeFiles/edit_cache.dir
+C:/Users/exit2/Documents/Projects/Lets-Trade/build/ios/CMakeFiles/rebuild_cache.dir
+C:/Users/exit2/Documents/Projects/Lets-Trade/build/ios/src/CMakeFiles/edit_cache.dir
+C:/Users/exit2/Documents/Projects/Lets-Trade/build/ios/src/CMakeFiles/lets-trade.dir
+C:/Users/exit2/Documents/Projects/Lets-Trade/build/ios/src/CMakeFiles/rebuild_cache.dir

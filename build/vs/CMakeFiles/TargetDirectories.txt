@@ -1,0 +1,4 @@
+C:/Users/exit2/Documents/Projects/Lets-Trade/build/vs/CMakeFiles/ALL_BUILD.dir
+C:/Users/exit2/Documents/Projects/Lets-Trade/build/vs/CMakeFiles/ZERO_CHECK.dir
+C:/Users/exit2/Documents/Projects/Lets-Trade/build/vs/src/CMakeFiles/lets-trade.dir
+C:/Users/exit2/Documents/Projects/Lets-Trade/build/vs/src/CMakeFiles/ALL_BUILD.dir
